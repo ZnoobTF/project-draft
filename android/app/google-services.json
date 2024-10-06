@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716353325274",
+    "project_id": "egc-project-a2037",
+    "storage_bucket": "egc-project-a2037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716353325274:android:7791dcec4ea873579d3de3",
+        "android_client_info": {
+          "package_name": "com.example.main_draft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByvRF84pQSdKTabEtVlwu3QTXqXkR_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
